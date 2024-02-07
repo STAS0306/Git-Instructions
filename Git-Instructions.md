@@ -14,3 +14,4 @@ Git log - показать журнал сохранений
 ## Lesson 2 
 Git branch - показать список веток
 Git branch_name - создать ветку
+Git merge - cлить ветки
